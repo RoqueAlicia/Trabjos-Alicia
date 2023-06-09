@@ -1,7 +1,7 @@
-#include <cstdlib>
+#include <cstdlib> // PARA QUE UTILIZAMOS ESTA LIBRERIA
 #include <iostream>
 using namespace std;
-int main(int argc , char * argv[])
+int main(int argc , char * argv[]) // QUE SIGNIFICAN ESOS PARAMETROS
 {
     int x;
     cout<< "dame un numero entero";
